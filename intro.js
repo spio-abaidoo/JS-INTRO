@@ -5,6 +5,6 @@ const user ={
 
 };
 
-console.log(user.name);
-console.log(user.age);
-console.log(user.favoriteProgramingLanguge);
+console.log(`Hello, my name is ${user.name}`);
+console.log(`I am ${user.age} years old`);
+console.log(`My favorite programming language is ${user.favoriteProgramingLanguge}`);
